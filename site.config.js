@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Foreverpx',
-  domain: 'foreverpx.cn',
+  domain: 'www.foreverpx.cn',
   author: 'Foreverpx',
 
   // open graph metadata (optional)
